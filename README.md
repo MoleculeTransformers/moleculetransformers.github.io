@@ -41,7 +41,7 @@ Provides different stochastic and interpolation oriented SMILES augmentation mec
 ## Citation
 To cite Molecular Transformers in your work, please use the following bibtex reference:
 ```bibtex
-@misc{shahrukhkhan2021fuzzTransformer,
+@misc{shahrukhkhan2023enumtransfomers,
   author       = {Shahrukh Khan},
   title        = {Enumeration-aware Molecular SMILES Transformers for Representation Learning and Low-resource Scenarios},
   year         = 2023,
