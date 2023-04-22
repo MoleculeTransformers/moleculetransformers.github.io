@@ -41,12 +41,12 @@ Provides different stochastic and interpolation oriented SMILES augmentation mec
 ## Citation
 To cite Molecular Transformers in your work, please use the following bibtex reference:
 ```bibtex
-@misc{shahrukhkhan2021fuzzTransformer, <br>
-  author       = {Shahrukh Khan},<br>
+@misc{shahrukhkhan2021fuzzTransformer,
+  author       = {Shahrukh Khan},
   title        = {Enumeration-aware Molecular SMILES Transformers for Representation Learning and Low-resource Scenarios},<br>
-  year         = 2023,<br>
-  publisher    = {Coming soon},<br>
-  doi          = {Coming soon},<br>
-  url          = {Coming soon}<br>
+  year         = 2023,
+  publisher    = {Coming soon},
+  doi          = {Coming soon},
+  url          = {Coming soon}
 }
 ```
