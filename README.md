@@ -26,6 +26,7 @@ Introduces contrastive learning alongside multi-task regression, and masked lang
 
 ### [2. Fine-tuning on low-data via Semi-supervised Learning](https://github.com/MoleculeTransformers/moleculenet-bert-ssl)
 Replacing fully supervised fine-tuning of molecular language models with semi-supervised learning methods including pseudo-label, and deep co-training to generalize language models in low-data scenarios.
+<img width="1041" alt="Screenshot 2023-04-22 at 12 05 41 PM" src="https://user-images.githubusercontent.com/6007894/233777576-504298e5-df5c-44df-88b9-9914edb426b4.png">
 
 ### [3. SMILES Featurizers](https://github.com/MoleculeTransformers/smiles-featurizers)
 Allows to get neural fingerprints from pre-trained language models for training downstream ML models.
