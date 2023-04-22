@@ -32,6 +32,7 @@ Allows to get neural fingerprints from pre-trained language models for training 
 
 ### [4. RDKit Virtual Screening Benchmarking Platform for Transformers](https://github.com/MoleculeTransformers/rdkit-benchmarking-platform-transformers)
 Port of the [RDKit Virtual Screening Platform](https://github.com/rdkit/benchmarking_platform) to work with pre-trained transformer-based language models.
+![virtual screening illustration drawio](https://user-images.githubusercontent.com/6007894/233777499-5a79b31e-376c-44d5-b2f7-e57186932540.svg)
 
 ### [5. SMILES Augment](https://github.com/MoleculeTransformers/smiles-augment)
 Provides different stochastic and interpolation oriented SMILES augmentation mechanisms to augment SMILES-based training datasets.
