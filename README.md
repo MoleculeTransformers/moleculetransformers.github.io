@@ -2,7 +2,7 @@
 Molecule Transformers is a collection of recipes for pre-training and fine-tuning molecular transformer language models, including BART, BERT, etc. This project contains the following modules:
 
 
-<details><summary><h2>Abstract</h2></summary>
+<details><summary><b>Abstract</b></summary>
 
 Computer-aided drug discovery plays a pivotal role in the pipeline of discovering novel drugs. Notably, intelligent machine learning techniques have made drug development pipelines even more efficient in the pharmaceutical domain. In addition to discovering novel drugs, machine learning methods also help practitioners establish critical properties (i.e. toxicity) of the molecules that constitute a drug. Recent work has primarily been based on using deep transfer learning methods to learn meaningful molecular fingerprints. Importantly, the eventual success of these techniques heavily relies on the fidelity and richness of the learned fingerprints.
 
