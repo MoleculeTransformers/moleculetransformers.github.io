@@ -4,7 +4,7 @@ Molecule Transformers is a collection of recipes for pre-training and fine-tunin
 ### [1. Enumeration-aware Molecular Transformers](https://github.com/MoleculeTransformers/enumeration-aware-molecule-transformers)
 Introduces contrastive learning alongside multi-task regression, and masked language modelling as pre-training objectives to inject enumeration knowledge into pre-trained language models.
 #### Molecular Domain Adaptation (Contrastive Encoder-based)
-![smole bert drawio](https://user-images.githubusercontent.com/6007894/233776772-fc42537b-3616-4c0f-bba1-5d15a2757589.svg)
+![smole bert drawio (1)](https://user-images.githubusercontent.com/6007894/233776898-931c5f2f-0286-483e-9a96-5740bc15ba49.svg)
 
 #### Canonicalization Encoder-decoder (Denoising Encoder-decoder)
 <img width="702" alt="Screenshot 2023-04-22 at 11 43 06 AM" src="https://user-images.githubusercontent.com/6007894/233776512-ab6cdeef-02f1-4076-9b76-b228cbf26456.png">
