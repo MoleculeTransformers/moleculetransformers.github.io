@@ -43,7 +43,7 @@ To cite Molecular Transformers in your work, please use the following bibtex ref
 ```bibtex
 @misc{shahrukhkhan2021fuzzTransformer,
   author       = {Shahrukh Khan},
-  title        = {Enumeration-aware Molecular SMILES Transformers for Representation Learning and Low-resource Scenarios},<br>
+  title        = {Enumeration-aware Molecular SMILES Transformers for Representation Learning and Low-resource Scenarios},
   year         = 2023,
   publisher    = {Coming soon},
   doi          = {Coming soon},
