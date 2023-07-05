@@ -1,5 +1,5 @@
 # Molecule Transformers
-Molecule Transformers is a collection of recipes for pre-training and fine-tuning molecular transformer language models, including BART, BERT, etc. This project contains the following modules:
+Molecule Transformers is a collection of recipes for pre-training and fine-tuning molecular transformer language models, including BART, BERT, etc. **Full thesis available [here](https://moleculetransformers.github.io/thesis_cs_msc_Khan_Shahrukh.pdf)**. This project contains the following modules:
 
 
 <details><summary><b>Abstract</b></summary>
