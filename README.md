@@ -15,7 +15,7 @@ Furthermore, we extend our work on transfer learning to low-data scenarios suffe
 Computer-aided drug discovery is crucial in finding new drugs and machine learning techniques make drug development pipelines more efficient. Deep transfer learning methods are used to learn meaningful molecular fingerprints to help discover novel drugs and establish critical properties. Recent work focuses on learning molecular fingerprints from SMILES representations using pre-training neural language models. However, current SMILES pre-training regimes underperform in low-data settings due to the absence of enumeration knowledge. This thesis introduces novel SMILES pre-training objectives based on contrastive learning and denoising to incorporate SMILES enumeration knowledge and coupling transfer learning with semi-supervised learning approaches to adapt to small-data settings. Experimental results show significant improvements in performance on downstream tasks, demonstrating that using semi-supervised learning for fine-tuning can effectively mitigate the scarcity of labels in molecular datasets while employing pre-trained language models.
 
 </details>
-## Introduction
+<h1> Introduction</h1>
 We introduce a suite of neural language model tools for pre-training, fine-tuning SMILES-based molecular language models. Furthermore, we also provide recipes for semi-supervised recipes for fine-tuning these languages in low-data settings using Semi-supervised learning. Lastly, we also have open-sourced mechanisms for data augmentations and generating embeddings from pre-trained molecular language models as independent packages described below.
 
 ### [1. Enumeration-aware Molecular Transformers](https://github.com/MoleculeTransformers/enumeration-aware-molecule-transformers)
