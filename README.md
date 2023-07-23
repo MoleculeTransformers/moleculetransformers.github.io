@@ -43,7 +43,7 @@ Port of the [RDKit Virtual Screening Platform](https://github.com/rdkit/benchmar
 ### [5. SMILES Augment](https://github.com/MoleculeTransformers/smiles-augment)
 Provides different stochastic and interpolation oriented SMILES augmentation mechanisms to augment SMILES-based training datasets.
 
-## Citation
+<!--## Citation
 To cite Molecular Transformers in your work, please use the following bibtex reference:
 ```bibtex
 @misc{shahrukhkhan2023enumtransfomers,
@@ -55,3 +55,4 @@ To cite Molecular Transformers in your work, please use the following bibtex ref
   url          = {Coming soon}
 }
 ```
+-->
